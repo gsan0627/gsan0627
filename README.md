@@ -3,9 +3,10 @@
    <h3 align="center">¡Hey ⚡ Soy Gregory y me encanta programar 💬</h3>
 </p>
 
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **gsan0627/gsan0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
